@@ -49,6 +49,7 @@ h1 {
   width: 320px;
   background: transparent;
   color: #fff;
+  font-weight: 800;
 }
 
 .todo-input::placeholder {
@@ -67,7 +68,8 @@ h1 {
     rgba(155, 0, 250, 1) 100%
   );
   color: #fff;
-  text-transform: capitalize;
+  text-transform: uppercase;
+  font-weight: 600;
 }
 
 .todo-input.edit {
