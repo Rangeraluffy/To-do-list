@@ -1,7 +1,7 @@
 {
   "name": "to-do-list",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://620a828b0c5bd52f99925117--frosty-bartik-76428d.netlify.app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
